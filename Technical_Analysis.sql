@@ -26,8 +26,8 @@ planning for the future staff needs.
 
 ## Results/Conclusion of data review.
 
-In reviewing the outcomes the initial data analysis of filtering data of retirees provided an outcome of over 133K employees, 
-as i filtered the data to exclude duplicate employees that held different positions through the years reduce the data to over 90K employees, 
-and the last outcome of eligible mentors provided a number of over 1900 employees. This provides a big learning that the number of eligible 
+In reviewing the outcomes the initial data analysis of filtering data of retirees provided an outcome of over 54K employees, 
+as I filtered the data to exclude duplicate employees that held different positions through the years reduce the data to over 33K employees, 
+and the last outcome of eligible mentors provided a number of over 1500 employees. This provides a big learning that the number of eligible 
 mentors is relatively lower than the total amount of eligible retirees. This outcome can provide an opportunity to the success in the companys 
 future staff needs as there may not be aneough mentors to be able to train new employees that will replace the positions of those retiring.
