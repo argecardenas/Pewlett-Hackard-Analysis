@@ -96,6 +96,16 @@ ORDER BY emp_no;
 SELECT * FROM elig_mentors;
 
 
+-- Employee count by title
+SELECT COUNT(ce.emp_no), ti.title
+INTO emp_title_count
+FROM current_emp as ce
+LEFT JOIN titles as ti
+ON ce.emp_no = ti.emp_no
+GROUP BY ti.title
+ORDER BY ti.title;
+
+Select * from emp_title_count;
 
 
 
